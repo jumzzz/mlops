@@ -2,6 +2,24 @@
 
 Check here: https://ml-ops.org/content/references.html
 
+## Crucial Articles 
+
+### Three Levels of ML Software 
+[Link](https://ml-ops.org/content/three-levels-of-ml-software)
+
+- Contains overview on Model Serving Strategies
+- Contains overview on Model formats such as **Amalgamation**
+
+### MLOps Principles
+[Link](https://ml-ops.org/content/mlops-principles)
+
+- Contains more actionable steps on the Components of MLOps
+- Contains specific Setup Components on MLOps such as Source Control, Model Registry, etc.
+- Additional Definition on **Continuous X**. Aside from CI/CD, there's **Continuous Training (CT)** and **Continuous Monitoring**
+
+
+
+
 
 ## Book Recommendations
 - Ensemble Methods: Foundations and Algorithms (Chapman & Hall/CRC Machine Learning & Pattern Recognition) 1st Edition [Link](https://www.amazon.com/exec/obidos/ASIN/1439830037/acmorg-20)
