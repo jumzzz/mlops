@@ -34,6 +34,7 @@ Check here: https://ml-ops.org/content/references.html
 - Feature Engineering for Machine Learning [Link](https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/)
 - Principles of Data Wrangling [Link](https://www.oreilly.com/library/view/principles-of-data/9781491938911/)
 - Software Architecture Patterns [Link](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
+- Accelerate: Building and Scaling High Performing Technology Organizations [Link](https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations/dp/B07BMBYHXL)
 
 ## Frameworks for Model Management
 - https://www.inovex.de/de/blog/machine-learning-model-management/
