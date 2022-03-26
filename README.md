@@ -19,6 +19,7 @@ Check here: https://ml-ops.org/content/references.html
 ### MLOps Principles
 [Link](https://ml-ops.org/content/mlops-principles)
 
+- Contains specific checklist on performing automated testing on Data Validity, Features, Feature and Data Pipelines, and Feature Creation Code
 - Contains more actionable steps on the Components of MLOps
 - Contains specific Setup Components on MLOps such as Source Control, Model Registry, etc.
 - Additional Definition on **Continuous X**. Aside from CI/CD, there's **Continuous Training (CT)** and **Continuous Monitoring**
