@@ -37,4 +37,8 @@ Check here: https://ml-ops.org/content/references.html
 - Accelerate: Building and Scaling High Performing Technology Organizations [Link](https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations/dp/B07BMBYHXL)
 
 ## Frameworks for Model Management
-- https://www.inovex.de/de/blog/machine-learning-model-management/
+
+[Link](https://www.inovex.de/de/blog/machine-learning-model-management/)
+- **DVC** : Data Version Control
+- **MLFlow** : For Project and Model Management
+- **Weights and Biases** : For Tracking Experiments
