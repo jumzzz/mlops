@@ -4,6 +4,16 @@ Check here: https://ml-ops.org/content/references.html
 
 ## Crucial Articles 
 
+### MLOps Principles
+[Link](https://ml-ops.org/content/mlops-principles)
+
+- Contains specific checklist on performing automated testing on Data Validity, Features, Feature and Data Pipelines, and Feature Creation Code
+- Contains checklist on ensuring that the results of your ML Project is **reproducible**
+- Contains more actionable steps on the Components of MLOps
+- Contains specific Setup Components on MLOps such as Source Control, Model Registry, etc.
+- Additional Definition on **Continuous X**. Aside from CI/CD, there's **Continuous Training (CT)** and **Continuous Monitoring**
+
+
 ### Phase-Zero
 [Link](https://ml-ops.org/content/phase-zero)
 
@@ -15,15 +25,6 @@ Check here: https://ml-ops.org/content/references.html
 
 - Contains overview on Model Serving Strategies
 - Contains overview on Model formats such as **Amalgamation**
-
-### MLOps Principles
-[Link](https://ml-ops.org/content/mlops-principles)
-
-- Contains specific checklist on performing automated testing on Data Validity, Features, Feature and Data Pipelines, and Feature Creation Code
-- Contains more actionable steps on the Components of MLOps
-- Contains specific Setup Components on MLOps such as Source Control, Model Registry, etc.
-- Additional Definition on **Continuous X**. Aside from CI/CD, there's **Continuous Training (CT)** and **Continuous Monitoring**
-
 
 
 
